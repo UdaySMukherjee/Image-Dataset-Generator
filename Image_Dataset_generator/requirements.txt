@@ -1,0 +1,3 @@
+selenium==3.141.0
+requests==2.26.0
+Pillow==8.4.0
