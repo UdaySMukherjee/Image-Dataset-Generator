@@ -27,3 +27,26 @@ A simple Python application that allows you to search and download images from B
 
    ```sh
    git clone https://github.com/your-username/your-repo-name.git
+   ```
+2. Install the required libraries:
+
+   ```sh
+   pip install selenium pillow
+   ```
+3. Download the Chrome WebDriver and make sure it's in your system's PATH.
+
+Replace path/to/your/sample/image.png in the code with the actual path to your sample image.
+
+Usage
+Run the application:
+   ```sh
+   pip install selenium pillow
+   ```
+Enter a search term and the maximum number of images to download.
+
+Click the "Select Download Folder" button to choose a download location.
+
+Click the "Create Dataset" button to start downloading images.
+
+Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
