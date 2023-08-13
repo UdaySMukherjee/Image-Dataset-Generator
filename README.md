@@ -11,7 +11,7 @@ A simple Python application that allows you to search and download images from B
 
 ## UI
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](https://i.imgur.com/GuIqWRl.png)
 
 ## Requirements
 
