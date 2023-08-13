@@ -15,7 +15,7 @@ A simple Python application that allows you to search and download images from B
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9.13
 - [Selenium](https://pypi.org/project/selenium/)
 - [Chrome WebDriver](https://chromedriver.chromium.org/downloads) (Ensure compatibility with your Chrome browser version)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
@@ -26,27 +26,27 @@ A simple Python application that allows you to search and download images from B
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/UdaySMukherjee/Image-Dataset-Generator.git
    ```
 2. Install the required libraries:
 
    ```sh
-   pip install selenium pillow
+   pip install -r requirements.txt
    ```
 3. Download the Chrome WebDriver and make sure it's in your system's PATH.
 
-4. Replace path/to/your/sample/image.png in the code with the actual path to your sample image.
+4. Create a blank folder where u would like to store the images
 
 ## Usage
 1. Run the application:
-   ```py
+   ```sh
    python app.py
    ```
-2. Enter a search term and the maximum number of images to download.
+2. Enter a search term and the number of images to download.
 
 3. Click the "Select Download Folder" button to choose a download location.
 
-4. Click the "Create Dataset" button to start downloading images.
+4. Click the "Create Dataset" button to start downloading images for your dataset.
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
