@@ -39,7 +39,7 @@ A simple Python application that allows you to search and download images from B
 
 ## Usage
 1. Run the application:
-   ```python
+   ```py
    python app.py
    ```
 2. Enter a search term and the maximum number of images to download.
