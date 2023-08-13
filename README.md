@@ -17,7 +17,7 @@ A simple Python application that allows you to search and download images from B
 
 - Python 3.x
 - [Selenium](https://pypi.org/project/selenium/)
-- [Chrome WebDriver](https://sites.google.com/chromium.org/driver/) (Ensure compatibility with your Chrome browser version)
+- [Chrome WebDriver](https://chromedriver.chromium.org/downloads) (Ensure compatibility with your Chrome browser version)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [PIL (Python Imaging Library)](https://pillow.readthedocs.io/en/stable/)
 
