@@ -129,7 +129,7 @@ status_label.pack(anchor="w")
 
 # Image for right container
 sample_image = Image.open(r"Image_Dataset_generator\assets\image.jpg")
-sample_image = sample_image.resize((600, 400), Image.ANTIALIAS)
+sample_image = sample_image.resize((700, 400), Image.ANTIALIAS)
 sample_image = ImageTk.PhotoImage(sample_image)
 
 image_label = tk.Label(right_container, image=sample_image)
