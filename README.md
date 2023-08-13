@@ -1,15 +1,15 @@
 
 # Image Dataset Maker
 
-A simple Python application that allows you to search and download images from Bing Images using Selenium and tkinter.
+A simple Python application that allows you to search and download images from Bing Images using Selenium and Tkinter.
 
 ## Features
 
-- Search for images based on a given search term.
-- Specify the maximum number of images to download.
-- Select a download folder for saving the downloaded images.
+- Search for images based on a given search term in Chrome.
+- Specify the number of images to download.
+- Creates an easy-made dataset of images.
 
-## Screenshots
+## UI
 
 ![Screenshot](screenshots/screenshot.png)
 
