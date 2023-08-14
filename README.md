@@ -7,7 +7,7 @@ A simple Python application that allows you to search and download images from B
 
 - Search for images based on a given search term in Chrome.
 - Specify the number of images to download.
-- Creates an easy-made dataset of images.
+- Total Background Proceess.
 
 ## UI
 
