@@ -128,7 +128,7 @@ status_label = tk.Label(left_container, text="", font=("Arial", 12), anchor="w")
 status_label.pack(anchor="w")
 
 # Image for right container
-sample_image = Image.open(r"Image_Dataset_generator\assets\image.jpg")
+sample_image = Image.open(r"assets\image.jpg")
 sample_image = sample_image.resize((700, 400), Image.ANTIALIAS)
 sample_image = ImageTk.PhotoImage(sample_image)
 
